@@ -11,4 +11,4 @@ feign:
   hystrix:
     enabled: true
 
-version: 1.2
+version: 1.3
